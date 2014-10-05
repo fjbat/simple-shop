@@ -8,7 +8,7 @@
 
 
     // --- Definir email para envio
-    $recipient = "email@gmail.com";
+    $recipient = "filipe@silvabatista.com";
     // ---
 
     $items = "";
